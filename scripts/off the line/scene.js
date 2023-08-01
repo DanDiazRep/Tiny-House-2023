@@ -235,6 +235,8 @@ var createScene = function () {
         function (evt) {
             //On progress function
             var percentage = (evt.loaded * 100 / evt.total).toFixed();
+            console.log(env.loaded)
+            console.log(evt.total)
             console.log(`Loading, ${firstModel.name}... ${percentage}%`);
             $("#loadingLabel").text(`Loading, please wait... ${percentage}%`);
             if (percentage == 100) {
