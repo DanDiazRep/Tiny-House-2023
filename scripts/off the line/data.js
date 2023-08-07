@@ -10,7 +10,7 @@ var sceneInfo2 =
     "upperRadiusLimit": 1200,
     "panningSensibility": 0,
     "wheelDeltaPercentage": 0.07,
-    "hdr": "https://dandiazrep.github.io/Tiny-House-2023/assets/environment/babylonDefault.dds",
+    "hdr": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/environment/babylonDefault.dds",
     "lights":
         [
             {
@@ -29,7 +29,7 @@ var sceneInfo2 =
         [
             {
                 "name": "Shell",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Shell.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -42,7 +42,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Estufa",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Estufa.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -55,7 +55,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Horno",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Horno.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -68,7 +68,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Escalaras1",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Escaleras1.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -81,7 +81,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Escaleras2",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Escaleras2.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -94,7 +94,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Escaleras3",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Escaleras3.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -107,7 +107,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Lamparas",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Lamparas.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -120,7 +120,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Ladder",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "EscalerasMano.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -133,7 +133,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Meson1",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Meson1.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -146,7 +146,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Meson2",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Meson2.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -159,7 +159,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Muebles",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Muebles.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -172,7 +172,7 @@ var sceneInfo2 =
             },
             {
                 "name": "RefrigeratorA",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Nevera1.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -185,7 +185,7 @@ var sceneInfo2 =
             },
             {
                 "name": "RefrigeratorB",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Nevera2.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -198,7 +198,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Prop1",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Prop1.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -211,7 +211,7 @@ var sceneInfo2 =
             },
             {
                 "name": "Prop2",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "Prop2.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -224,7 +224,7 @@ var sceneInfo2 =
             },
             {
                 "name": "CompostingToilet",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "CompostingToilet.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -237,7 +237,7 @@ var sceneInfo2 =
             },
             {
                 "name": "FlushingToilet",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "FlushingToilet.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -250,7 +250,7 @@ var sceneInfo2 =
             },
             {
                 "name": "InnerWallE",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "InnerEastWall.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -263,7 +263,7 @@ var sceneInfo2 =
             },
             {
                 "name": "InnerWallW",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "InnerWallWest.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -276,7 +276,7 @@ var sceneInfo2 =
             },
             {
                 "name": "PuertaCorrediza1",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "PuertaCorrediza1.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -289,7 +289,7 @@ var sceneInfo2 =
             },
             {
                 "name": "PuertaCorrediza2",
-                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/",
+                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/",
                 "file": "PuertaCorrediza2.glb",
                 "xPosition": 0,
                 "yPosition": 0,
@@ -336,116 +336,116 @@ var TFeatures2 = {
                 {
                     "code": "Bamboo",
                     "name": "Bamboo",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Bamboo.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Bamboo.png",
                 },
                 {
                     "code": "Banyan Brown",
                     "name": "Banyan Brown",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/BanyanBrown.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/BanyanBrown.png",
                 },
                 {
                     "code": "Blue Shadow",
                     "name": "Blue Shadow",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/BlueShadow.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/BlueShadow.png",
                 },
                 {
                     "code": "Blue Spruce",
                     "name": "Blue Spruce",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/BlueSpruce.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/BlueSpruce.png",
                 },
                 {
                     "code": "Cedar Bark",
                     "name": "Cedar Bark",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/CedarBark.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/CedarBark.png",
                 },
                 {
                     "code": "Charwood",
                     "name": "Charwood",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Charwood.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Charwood.png",
                 },
                 {
                     "code": "Chestnut",
                     "name": "Chestnut",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Chestnut.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Chestnut.png",
                 },
                 {
                     "code": "Classic Barn Red",
                     "name": "Classic Barn Red",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/ClassicBarnRed.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/ClassicBarnRed.png",
                 },
                 {
                     "code": "Douglas Flr",
                     "name": "Douglas Flr",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/DouglasFlr.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/DouglasFlr.png",
                 },
                 {
                     "code": "English Walnut",
                     "name": "English Walnut",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/EnglishWalnut.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/EnglishWalnut.png",
                 },
                 {
                     "code": "Faded Denim",
                     "name": "Faded Denim",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/FadedDenim.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/FadedDenim.png",
                 },
                 {
                     "code": "Gray Pine",
                     "name": "Gray Pine",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/GrayPine.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/GrayPine.png",
                 },
                 {
                     "code": "Hawthorne",
                     "name": "Hawthorne",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Hawthorne.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Hawthorne.png",
                 },
                 {
                     "code": "Hill Country",
                     "name": "Hill Country",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/HillCountry.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/HillCountry.png",
                 },
                 {
                     "code": "Leeward",
                     "name": "Leeward",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Leeward.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Leeward.png",
                 },
                 {
                     "code": "MossOlive",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/MossOlive.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/MossOlive.png",
                 },
                 {
                     "code": "Mountain Ash",
                     "name": "Mountain Ash",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/MountainAsh.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/MountainAsh.png",
                 },
                 {
                     "code": "New Barn Red",
                     "name": "New Barn Red",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/NewBarnRed.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/NewBarnRed.png",
                 },
                 {
                     "code": "Olive",
                     "name": "Olive",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Olive.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Olive.png",
                 },
                 {
                     "code": "Pacific Pine",
                     "name": "Pacific Pine",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/PacificPine.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/PacificPine.png",
                 },
                 {
                     "code": "Riverwood",
                     "name": "Riverwood",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Riverwood.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Riverwood.png",
                 },
                 {
                     "code": "Tavern Oak",
                     "name": "Tavern Oak",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/TavernOak.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/TavernOak.png",
                 },
                 {
                     "code": "White Birch",
                     "name": "White Birch",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/WhiteBirch.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/WhiteBirch.png",
                 },
                 
             ],
@@ -507,12 +507,12 @@ var TFeatures2 = {
                 {
                     "code": "Include Bedroom",
                     "name": "Include Bedroom",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Bedroom.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Bedroom.png",
                 },
                 {
                     "code": "Remove Bedroom",
                     "name": "Remove Bedroom",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Remove.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Remove.png",
                 },
             ],
             "icon": "fas fa-bed"
@@ -609,12 +609,12 @@ var TFeatures2 = {
                 {
                     "code": "Flushing Toilet",
                     "name": "Flushing Toilet",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/FlushingToilet.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/FlushingToilet.png",
                 },
                 {
                     "code": "Composting Toilet",
                     "name": "Composting Toilet",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/CompostingToilet.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/CompostingToilet.png",
                 },
             ],
             "icon": "fas fa-bath"
@@ -628,19 +628,19 @@ var TFeatures2 = {
                 {
                     "code": "Bottom Freezer",
                     "name": "Bottom Freezer",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/FridgeA.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/FridgeA.png",
 
                 },
                 {
                     "code": "Top Freezer",
                     "name": "Top Freezer",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/FridgeB.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/FridgeB.png",
 
                 },
                 {
                     "code": "Refrigerator C",
                     "name": "Refrigerator C",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/404.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/404.png",
 
                 },
             ],
@@ -655,13 +655,13 @@ var TFeatures2 = {
                 {
                     "code": "Include Stove",
                     "name": "Include Stove",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Stove.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Stove.png",
 
                 },
                 {
                     "code": "Remove Stove",
                     "name": "Remove Stove",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Remove.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Remove.png",
 
                 },
             ],
@@ -676,12 +676,12 @@ var TFeatures2 = {
                 {
                     "code": "Include Wood Stove",
                     "name": "Include Wood Stove",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/WoodStove.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/WoodStove.png",
                 },
                 {
                     "code": "Remove Wood Stove",
                     "name": "Remove Wood Stove",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/Remove.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/Remove.png",
                 },
             ],
             "icon": "fas fa-dumpster-fire"
@@ -695,19 +695,19 @@ var TFeatures2 = {
                 {
                     "code": "Staircase 1",
                     "name": "Staircase 1",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/404.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/404.png",
 
                 },
                 {
                     "code": "Staircase 2",
                     "name": "Staircase 2",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/404.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/404.png",
 
                 },
                 {
                     "code": "Staircase 3",
                     "name": "Staircase 3",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/404.png",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/404.png",
 
                 },
             ],
@@ -742,13 +742,13 @@ var TFeatures2 = {
                 {
                     "code": "Natural Oak Floor",
                     "name": "Natural Oak",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/NaturalOak.jpg",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/NaturalOak.jpg",
 
                 },
                 {
                     "code": "Dark Mahogany Floor",
                     "name": "Dark Mahogany ",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/DarkMahogany.jpg",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/DarkMahogany.jpg",
 
                 },
             ],
@@ -766,13 +766,13 @@ var TFeatures2 = {
                 {
                     "code": "Natural Oak Walls",
                     "name": "Natural Oak",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/NaturalOak.jpg",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/NaturalOak.jpg",
 
                 },
                 {
                     "code": "Dark Mahogany Walls",
                     "name": "Dark Mahogany",
-                    "thumbnail": "https://dandiazrep.github.io/Tiny-House-2023/assets/icons/DarkMahogany.jpg",
+                    "thumbnail": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/DarkMahogany.jpg",
 
                 },
             ],
@@ -795,7 +795,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_Bamboo.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_Bamboo.ktx2"
                             },
                         ],
                     "color": null,
@@ -815,7 +815,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_BanyanBrown.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_BanyanBrown.ktx2"
                             },
                         ],
                     "color": null,
@@ -835,7 +835,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_BlueShadow.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_BlueShadow.ktx2"
                             },
                         ],
                     "color": null,
@@ -855,7 +855,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_BlueSpruce.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_BlueSpruce.ktx2"
                             },
                         ],
                     "color": null,
@@ -875,7 +875,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_CedarBark.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_CedarBark.ktx2"
                             },
                         ],
                     "color": null,
@@ -895,7 +895,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_Charwood.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_Charwood.ktx2"
                             },
                         ],
                     "color": null,
@@ -915,7 +915,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_Chestnut.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_Chestnut.ktx2"
                             },
                         ],
                     "color": null,
@@ -935,7 +935,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_ClassicBarnRed.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_ClassicBarnRed.ktx2"
                             },
                         ],
                     "color": null,
@@ -955,7 +955,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_DouglasFlr.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_DouglasFlr.ktx2"
                             },
                         ],
                     "color": null,
@@ -975,7 +975,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_EnglishWalnut.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_EnglishWalnut.ktx2"
                             },
                         ],
                     "color": null,
@@ -995,7 +995,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_FadedDenim.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_FadedDenim.ktx2"
                             },
                         ],
                     "color": null,
@@ -1015,7 +1015,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_GrayPine.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_GrayPine.ktx2"
                             },
                         ],
                     "color": null,
@@ -1035,7 +1035,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_Hawthorne.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_Hawthorne.ktx2"
                             },
                         ],
                     "color": null,
@@ -1054,7 +1054,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_HillCountry.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_HillCountry.ktx2"
                             },
                         ],
                     "color": null,
@@ -1074,7 +1074,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_Leeward.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_Leeward.ktx2"
                             },
                         ],
                     "color": null,
@@ -1094,7 +1094,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_MossOlive.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_MossOlive.ktx2"
                             },
                         ],
                     "color": null,
@@ -1113,7 +1113,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_MountainAsh.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_MountainAsh.ktx2"
                             },
                         ],
                     "color": null,
@@ -1132,7 +1132,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_NewBarnRed.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_NewBarnRed.ktx2"
                             },
                         ],
                     "color": null,
@@ -1151,7 +1151,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_Olive.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_Olive.ktx2"
                             },
                         ],
                     "color": null,
@@ -1171,7 +1171,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_PacificPine.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_PacificPine.ktx2"
                             },
                         ],
                     "color": null,
@@ -1190,7 +1190,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_Riverwood.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_Riverwood.ktx2"
                             },
                         ],
                     "color": null,
@@ -1209,7 +1209,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_TavernOak.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_TavernOak.ktx2"
                             },
                         ],
                     "color": null,
@@ -1228,7 +1228,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Walls_WhiteBirch.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Walls_WhiteBirch.ktx2"
                             },
                         ],
                     "color": null,
@@ -1495,7 +1495,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Floor_Wood1.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Floor_Wood1.ktx2"
                             },
                         ],
                     "color": null,
@@ -1514,7 +1514,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/Floor_Wood2.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/Floor_Wood2.ktx2"
                             },
                         ],
                     "color": null,
@@ -1526,7 +1526,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/FloorEast_Wood2.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/FloorEast_Wood2.ktx2"
                             },
                         ],
                     "color": null,
@@ -1538,7 +1538,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/FloorWest_Wood2.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/FloorWest_Wood2.ktx2"
                             },
                         ],
                     "color": null,
@@ -1559,7 +1559,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/InnerWall_Wood1.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/InnerWall_Wood1.ktx2"
                             },
                         ],
                     "color": null,
@@ -1571,7 +1571,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/InnerWallEast_Wood1.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/InnerWallEast_Wood1.ktx2"
                             },
                         ],
                     "color": null,
@@ -1583,7 +1583,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/InnerWallWest_Wood1.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/InnerWallWest_Wood1.ktx2"
                             },
                         ],
                     "color": null,
@@ -1603,7 +1603,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/InnerWall_Wood2.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/InnerWall_Wood2.ktx2"
                             },
                         ],
                     "color": null,
@@ -1615,7 +1615,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/InnerWallEast_Wood2.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/InnerWallEast_Wood2.ktx2"
                             },
                         ],
                     "color": null,
@@ -1627,7 +1627,7 @@ var OptionsList2 = [
                         [
                             {
                                 "channel": "albedoTexture",
-                                "url": "https://dandiazrep.github.io/Tiny-House-2023/assets/textures/InnerWallWest_Wood2.ktx2"
+                                "url": "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/textures/InnerWallWest_Wood2.ktx2"
                             },
                         ],
                     "color": null,

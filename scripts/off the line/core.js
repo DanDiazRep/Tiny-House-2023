@@ -114,10 +114,10 @@ function detectmob() {
 var watermarkImg = new Image;
 watermarkImg.crossOrigin = "anonymous";
 if (!detectmob()) {
-    watermarkImg.src = 'https://dandiazrep.github.io/Tiny-House-2023/assets/icons/company-logo.png';
+    watermarkImg.src = 'https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/company-logo.png';
 }
 else {
-    watermarkImg.src = 'https://dandiazrep.github.io/Tiny-House-2023/assets/icons/company-logo.png';
+    watermarkImg.src = 'https://ddiaz-daniel.github.io/Tiny-House-2023/assets/icons/company-logo.png';
 }
 function downloadImage() {
     extraAssets.setEnabled(false); //To be excluded in other projects

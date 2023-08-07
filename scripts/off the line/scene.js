@@ -87,7 +87,7 @@ var createScene = function () {
 
     //ANIMATIONS
     var arrow;
-    BABYLON.SceneLoader.ImportMesh("arrow_model", "https://dandiazrep.github.io/Tiny-House-2023/assets/models/draco/", "Arrow.glb", scene, function (meshes) {
+    BABYLON.SceneLoader.ImportMesh("arrow_model", "https://ddiaz-daniel.github.io/Tiny-House-2023/assets/models/draco/", "Arrow.glb", scene, function (meshes) {
         extraAssets = meshes[0];
         arrow = meshes[1];
         arrow.isPickable = true;
